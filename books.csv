@@ -1,0 +1,101 @@
+number,author_name,book_title,pages,publishing_year
+1,Suzanne Collins,"The Hunger Games (The Hunger Games, #1)",374,2008
+2,J.K. Rowling,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",912,2003
+3,Jane Austen,Pride and Prejudice,279,1813
+4,Harper Lee,To Kill a Mockingbird,323,1960
+5,Markus Zusak,The Book Thief,592,2005
+6,Stephenie Meyer,"Twilight (The Twilight Saga, #1)",498,2005
+7,George Orwell,Animal Farm,141,1945
+8,J.R.R. Tolkien,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,1728,1954
+9,C.S. Lewis,"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",767,1956
+10,John Green,The Fault in Our Stars,313,2012
+11,Oscar Wilde,The Picture of Dorian Gray,272,1890
+12,Shel Silverstein,The Giving Tree,64,1964
+13,Margaret Mitchell,Gone with the Wind,1037,1936
+14,Emily Brontë,Wuthering Heights,464,1847
+15,Stephen Chbosky,The Perks of Being a Wallflower,213,1999
+32,Kathryn Stockett,The Help,464,2009
+33,Bram Stoker,Dracula,488,1897
+34,Orson Scott Card,"Ender’s Game (Ender's Saga, #1)",324,1985
+35,E.B. White,Charlotte’s Web,184,1952
+36,John Steinbeck,Of Mice and Men,107,1937
+37,Ray Bradbury,Fahrenheit 451,194,1953
+38,J.D. Salinger,The Catcher in the Rye,277,1951
+39,Aldous Huxley,Brave New World,268,1932
+40,Gabriel García Márquez,One Hundred Years of Solitude,417,1967
+41,Khaled Hosseini,A Thousand Splendid Suns,372,2007
+42,Audrey Niffenegger,The Time Traveler’s Wife,537,2003
+43,William Goldman,The Princess Bride,429,1973
+44,Frances Hodgson Burnett,The Secret Garden,331,1911
+45,George R.R. Martin,"A Game of Thrones (A Song of Ice and Fire, #1)",835,1996
+46,S.E. Hinton,The Outsiders,208,1967
+47,Louisa May Alcott,Little Women,449,1868
+48,George Orwell,1984,298,1949
+49,Madeleine L'Engle,"A Wrinkle in Time (Time Quintet, #1)",218,1962
+50,Homer,The Odyssey,541,1818
+51,Mary Wollstonecraft Shelley,Frankenstein: The 1818 Text,260,2007
+52,J.K. Rowling,"Harry Potter and the Deathly Hallows (Harry Potter, #7)",759,2003
+53,Khaled Hosseini,The Kite Runner,371,1997
+54,J.K. Rowling,"Harry Potter and the Sorcerer’s Stone (Harry Potter, #1)",333,1993
+55,Lois Lowry,"The Giver (The Giver, #1)",208,1985
+56,Margaret Atwood,"The Handmaid’s Tale (The Handmaid's Tale, #1)",311,2002
+57,Alice Sebold,The Lovely Bones,372,1963
+58,Maurice Sendak,Where the Wild Things Are,38,1884
+59,Mark Twain,The Adventures of Huckleberry Finn,327,1988
+60,Dr. Seuss,Green Eggs and Ham,64,2001
+61,Yann Martel,Life of Pi,460,1859
+62,Charles Dickens,A Tale of Two Cities,489,1955
+63,Vladimir Nabokov,Lolita,368,1965
+16,Charlotte Brontë,Jane Eyre,532,1847
+17,Rick Riordan,"The Lightning Thief (Percy Jackson and the Olympians, #1)",377,2005
+18,F. Scott Fitzgerald,The Great Gatsby,96,1943
+19,Antoine de Saint-Exupéry,The Little Prince,180,1925
+20,Dan       Brown,"The Da Vinci Code (Robert Langdon, #2)",489,2003
+21,Lewis Carroll,Alice’s Adventures in Wonderland / Through the Looking-Glass,239,1871
+22,Fyodor Dostoevsky,Crime and Punishment,671,1866
+23,Veronica Roth,"Divergent (Divergent, #1)",487,2011
+24,Arthur Golden,Memoirs of a Geisha,503,1997
+25,Victor Hugo,Les Misérables,1463,1862
+26,Paulo Coelho,The Alchemist,197,1988
+27,William Golding,Lord of the Flies,182,1954
+28,William Shakespeare,Romeo and Juliet,281,1954
+29,L.M. Montgomery,"Anne of Green Gables (Anne of Green Gables, #1)",320,1908
+30,Cassandra Clare,"City of Bones (The Mortal Instruments, #1)",485,2007
+31,Douglas Adams,"The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",216,1979
+64,Frank Herbert,"Dune (Dune, #1)",658,1969
+65,Kurt Vonnegut Jr.,Slaughterhouse-Five,275,1999
+66,J.K. Rowling,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",435,2006
+67,Sara Gruen,Water for Elephants,368,1963
+68,Sylvia Plath,The Bell Jar,294,1988
+69,Roald Dahl,Matilda,240,1990
+70,Stephen King,The Stand,1152,1961
+71,Joseph Heller,Catch-22,453,1891
+72,Arthur Conan Doyle,"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",389,1989
+73,Ken Follett,"The Pillars of the Earth (Kingsbridge, #1)",976,1972
+74,Richard  Adams,"Watership Down (Watership Down, #1)",478,1938
+75,Daphne du Maurier,Rebecca,449,1954
+76,J.R.R. Tolkien,"The Fellowship of the Ring (The Lord of the Rings, #1)",432,1860
+77,Charles Dickens,Great Expectations,544,1991
+78,Diana Gabaldon,"Outlander (Outlander, #1)",850,2005
+79,Stieg Larsson,"The Girl with the Dragon Tattoo (Millennium, #1)",480,1982
+80,Alice Walker,The Color Purple,304,1962
+81,Ken Kesey,One Flew Over the Cuckoo’s Nest,325,1878
+82,Leo Tolstoy,Anna Karenina,964,2004
+83,Jodi Picoult,My Sister’s Keeper,423,1880
+84,Fyodor Dostoevsky,The Brothers Karamazov,796,1943
+85,Betty  Smith,A Tree Grows in Brooklyn,496,1962
+86,Anthony Burgess,A Clockwork Orange,240,2006
+87,Cormac McCarthy,The Road,241,1939
+88,Agatha Christie,And Then There Were None,264,1960
+89,Harper Lee,To Kill a Mockingbird,323,1995
+90,Philip Pullman,"The Golden Compass (His Dark Materials, #1)",399,2007
+91,Richelle Mead,"Vampire Academy (Vampire Academy, #1)",332,1986
+92,Stephen King,It,1168,1922
+93,Hermann Hesse,Siddhartha,152,1996
+94,Frank McCourt,"Angela’s Ashes (Frank McCourt, #1)",452,1977
+95,Stephen King,"The Shining (The Shining, #1)",497,1849
+96,Edgar Allan Poe,The Complete Stories and Poems,821,1976
+97,Anne Rice,"Interview with the Vampire (The Vampire Chronicles, #1)",346,1976
+98,Miguel de Cervantes Saavedra,Don Quixote,1023,1998
+99,Barbara Kingsolver,The Poisonwood Bible,546,1952
+100,Ernest Hemingway,The Old Man and the Sea,96,1952
