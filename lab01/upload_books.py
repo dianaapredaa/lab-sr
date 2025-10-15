@@ -1,8 +1,7 @@
 import pandas as pd
 from recombee_api_client.api_client import RecombeeClient, Region
 from recombee_api_client.api_requests import (
-    ListItems, DeleteItem, Batch, 
-    AddItemProperty, DeleteItemProperty, SetItemValues
+    SetItemValues
 )
 from recombee_api_client.exceptions import APIException
 

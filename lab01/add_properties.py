@@ -1,7 +1,6 @@
 from recombee_api_client.api_client import RecombeeClient, Region
 from recombee_api_client.api_requests import AddItemProperty, Batch
 
-# Înlocuiește valorile cu ale tale:
 DB_ID = 'exxmple-top-100-books'
 TOKEN = 'Lc2xgXTGrgmPkvdHcHwd1xhfRdBSujuIkhCzRCStW2BHBWjRWGnrSKsjBSY92h4x'
 
