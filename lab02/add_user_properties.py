@@ -9,10 +9,10 @@ client = RecombeeClient(DB_ID, TOKEN, region=Region.EU_WEST)
 
 # Define user properties (property names and types)
 properties = {
-    'name': 'string',           # User name
-    'age': 'int',                # Age (randomly generated)
+    'name': 'string',            # User name
+    'age': 'int',                # Age 
     'location': 'string',        # Location
-    'email': 'string'            # Email (auto-generated)
+    'email': 'string'            # Email 
 }
 
 requests = [AddUserProperty(name, typ) for name, typ in properties.items()]

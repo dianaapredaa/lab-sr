@@ -26,11 +26,11 @@ requests = [AddUser(user_id) for user_id in user_ids]
 
 try:
     response = client.send(Batch(requests))
-    print(f"✓ All IDs sent successfully!")
+    print(f"All IDs sent successfully!")
     print(f"\nUsers added:")
     for user_id in user_ids:
         print(f"  - {user_id}")
     print(f"\nTotal: {len(user_ids)} users")
 except APIException as e:
-    print(f"✗ Error sending IDs: {e}")
+    print(f"Error sending IDs: {e}")
 
